@@ -11,7 +11,7 @@ Binary is AMD64
 
 example usage:
 
-python3 -o HMCTS -a <api key>
+python3 -o HMCTS -a \<api key\>
 
 -a only required if you want to check private repositories as well.
 
